@@ -3,7 +3,6 @@
   
   **Used to be a game dev, however I switched to cyber security...**
   
-  **(Nowadays I just code pen-testing tools...)**
   
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
